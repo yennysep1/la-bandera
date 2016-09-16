@@ -1,0 +1,17 @@
+/* Escribe tu css aqui */
+
+body{
+	margin: 0;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+div{
+	height: 100px;
+}
