@@ -1,0 +1,23 @@
+/* Escribe tu css aqui */
+
+body{
+	margin: 0;
+}
+
+.box{
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+.yellow, .red {
+	height: 100px;
+}

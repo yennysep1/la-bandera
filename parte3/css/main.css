@@ -1,0 +1,22 @@
+/* Escribe tu css aqui */
+
+body{
+	margin: 0;
+}
+
+.box{
+	width: 200px;
+	margin-right: 10px;
+	padding: 10px;
+	display: inline-block;
+	height: 100px;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
